@@ -4,7 +4,7 @@ I'm S. P. Sharan from Chennai, India and I'm an sophomore undergrad at NIT Trich
 - 🔭 I’m currently working on: My End-Semester Exams
 - 💬 Ask me about: Cool Deep Learning Research
 - 📫 How to reach me: Drop a mail at spsharan2000@gmail.com
-- 😄 Pronouns: his, him
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: When I type, I sometimes like to use three dots… instead of a comma. It just feels more *me* 🙃.
 
 <!--- 
