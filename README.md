@@ -1,8 +1,8 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-<img align='left' src='https://sps-spotify-now-playing.herokuapp.com/'>
-
+<!---
+<img align='left' src='https://sps-spotify-now-playing.herokuapp.com/'> --->
 <!---https://mir-s3-cdn-cf.behance.net/project_modules/disp/5d07e414077743.5627cf1ab791c.gif--->
 
 <link rel="stylesheet" href="css/social-circles.min.css">
@@ -31,3 +31,5 @@ I'm S. P. Sharan from Chennai, India and I'm an sophomore undergrad at NIT Trich
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 --->
+
+<src='https://sps-spotify-now-playing.herokuapp.com/'>
