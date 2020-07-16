@@ -32,4 +32,4 @@ I'm S. P. Sharan from Chennai, India and I'm an sophomore undergrad at NIT Trich
 - 🤔 I’m looking for help with ...
 --->
 
-<src='https://sps-spotify-now-playing.herokuapp.com/'>
+<img src='https://sps-spotify-now-playing.herokuapp.com/'>
