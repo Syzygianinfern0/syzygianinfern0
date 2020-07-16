@@ -23,8 +23,9 @@ I'm S. P. Sharan from Chennai, India and I'm an sophomore undergrad at NIT Trich
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=syzygianinfern0&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["stars"])
 
+<!---
 <img align='left' src='https://mir-s3-cdn-cf.behance.net/project_modules/disp/5d07e414077743.5627cf1ab791c.gif' width='320"' height='120"'>
-
+--->
 <!--- 
 🌱 I’m currently learning: Electronics
 - 👯 I’m looking to collaborate on ...
