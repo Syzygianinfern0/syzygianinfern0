@@ -9,6 +9,11 @@ I'm S. P. Sharan from Chennai, India and I'm an sophomore undergrad at NIT Trich
 - 😄 **Pronouns:** he/him/his
 - ⚡ **Fun fact:** When I type, I sometimes like to use three dots… instead of a comma. It just feels more *me* 🙃.
 
+![](https://komarev.com/ghpvc/?username=Syzygianinfern0)
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+[![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+
 <!--- 
 🌱 I’m currently learning: Electronics
 - 👯 I’m looking to collaborate on ...
