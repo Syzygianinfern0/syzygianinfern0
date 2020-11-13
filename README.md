@@ -3,7 +3,7 @@
 ### Hi there 👋
 I'm S. P. Sharan from Chennai, India and I'm an sophomore undergrad at NIT Trichy. My interests include Deep Learning, Mathematics, Linux, Cryptography and English Pop Music. 
 
-- 🔭 **I’m currently working on:** My Intern Work
+- 🔭 **I’m currently working on:** My Intern Work, `while True: num_assignments -= -1`
 - 💬 **Ask me about:** Cool Deep Learning Research
 - 📫 **How to reach me:** Drop a mail at spsharan2000@gmail.com
 - 😄 **Pronouns:** he/him/his
