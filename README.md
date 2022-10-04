@@ -12,8 +12,7 @@
 
 </div>
 
-I am a final year undergrad majoring in ECE at NIT Trichy. My interests include Deep Learning, Linux, Pop Music, and
-Anime.
+I am a first year PhD student at The University of Texas at Austin working on machine learning and robotics. My interests outside work include Linux, Pop Music, and Anime.
 
 - 🔭 **I’m currently working on:** Random cool stuff probably
 - 💬 **Ask me about:** Anything tech
